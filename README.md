@@ -1,4 +1,4 @@
-0x1D. C - Binary trees
+# 0x1D. C - Binary trees
 ### This project includes the following tasks
 
 * 0. New node - Write a function that creates a binary tree node
@@ -45,4 +45,4 @@
 * 40. Heap -Sort - Write a function that converts a Binary Max Heap to a sorted array of integers
 * 41. Big O #Binary Heap - What are the average time complexities of those operations on a Binary Heap (one answer per line):
 ## Author
-Marcus Ruth
+Chinwendu Ijy Ejiro-Majemite
